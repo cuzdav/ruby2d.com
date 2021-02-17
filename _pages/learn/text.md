@@ -25,4 +25,6 @@ Text.new(
 )
 ```
 
+Once a Text object is created, it can be modified via assigning to its `text` attribute.
+
 Continue to the [next topic »](/learn/{{ page.next_topic }})
